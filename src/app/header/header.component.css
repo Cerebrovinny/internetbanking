@@ -1,6 +1,6 @@
-.navbar-inverse {
-    height: 18vh;
-    padding: 10px;
+.wrapper-header  {
+    height: 30vh;
+    padding: 30px;
     background: #dcbc81;
     color: #fff;
     box-shadow: 0 2px 5px -2px grey;
@@ -19,16 +19,15 @@
     color: #333;
     }
     @media screen and (min-width: 600px) {
-        .wrapper-header {
-        height: 15vh;
-        }
-        .menu-header li {
-        list-style: none;
-        display: inline;
-        position: relative;
-        margin: 10px;
-        top: 30px;
-        font-size: 18px;
-        }
-        }
-
+    .wrapper-header {
+    height: 15vh;
+    }
+    .menu-header li {
+    list-style: none;
+    display: inline;
+    position: relative;
+    margin: 10px;
+    top: 30px;
+    font-size: 18px;
+    }
+    }
